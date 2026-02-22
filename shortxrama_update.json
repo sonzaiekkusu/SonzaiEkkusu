@@ -1,6 +1,6 @@
 {
   "versionCode": 7,
   "versionName": "X2",
-  "changelog": "🌙 ShortXrama X2 — Edisi Ramadhan 1446 H\n\n• UI Tema Ramadhan\n• Progress bar YouTube-style dengan kontrol volume & kecerahan\n• Tombol player lebih clean tanpa background\n• Tentang Aplikasi dipindahkan ke Pengaturan\n• Fitur cek update otomatis\n• Tombol DONASI via QRIS\n• Hapus fitur geser volume/kecerahan (diganti tombol)",
+  "changelog": "Improved some UI",
   "downloadUrl": "https://github.com/sonzaiekkusu/SonzaiEkkusu/releases/latest"
 }
