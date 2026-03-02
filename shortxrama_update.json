@@ -1,6 +1,6 @@
 {
   "versionCode": 6,
   "versionName": "X1",
-  "changelog": "Improved some UI",
+  "changelog": "- Implement pagination for Freereels home, popular, and new sections in the app.\n- Add data models, API services, repository, and ViewModels for drama content, and integrate DramaWave source.\n- DramaWave source added to the application.",
   "downloadUrl": "https://github.com/sonzaiekkusu/SonzaiEkkusu/releases/latest"
 }
