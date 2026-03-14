@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "X2",
-  "changelog": "- Implement pagination for Freereels home, popular, and new sections in the app.\n- Add data models, API services, repository, and ViewModels for drama content, and integrate DramaWave source.\n- DramaWave source added to the application.",
-  "downloadUrl": "https://github.com/sonzaiekkusu/SonzaiEkkusu/releases/download/X2/ShortXrama-X2.apk"
+  "versionCode": 8,
+  "versionName": "X3",
+  "changelog": "🚀 Release Notes: vX3 (Version Code 8)\n\n✨ Fitur Baru & Peningkatan Utama\n- Kualitas Video Dinamis: Pemutar video kini menampilkan opsi resolusi/kualitas secara otomatis menyesuaikan ketersediaan dari API server.\n- Pengaturan Pemutar Video: Menambahkan kontrol gestur kustom pada pemutar video (dan menonaktifkan gestur bawaan yang sering mengganggu).\n\n🎨 Tampilan & Aset (UI/UX)\n- Ikon Aplikasi Baru: Mengganti ikon launcher aplikasi dengan desain baru berlatar belakang hitam, beserta penyesuaian margin agar lebih proporsional.\n- Refactor Aplikasi: Mengubah menu agar memudahkan.\n- Splash Screen Baru: Memperbarui logo pada splash screen (tanpa background) dan merevisi teks atribusi developer.\n- Pembaruan Teks: Merevisi deskripsi pada menu utama.\n- Navigasi Pemutar: Menghapus tombol back/nav-back lama pada player untuk kebersihan antarmuka.\n\n⚙️ Perbaikan Teknis\n- Refactoring kode pemutar video (mengubah variabel seekByMs menjadi deltaSeconds agar lebih mudah dibaca).\n- Memperbaiki dan membersihkan sejumlah peringatan deprecation.\n- Bump version aplikasi ke X3 (kode 8).",
+  "downloadUrl": "https://github.com/sonzaiekkusu/SonzaiEkkusu/releases/download/X3/ShortXrama-X3.apk"
 }
