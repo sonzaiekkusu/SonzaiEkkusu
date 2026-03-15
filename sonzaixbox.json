@@ -1,7 +1,7 @@
 {
   "versionCode": 9,
   "versionName": "X3",
-  "isMaintenance": true,
+  "isMaintenance": false,
   "changelog": "🚀 Release Notes: vX3 (Version Code 9)\n\n✨ Fitur Baru & Peningkatan Utama\n- Kualitas Video Dinamis: Pemutar video kini menampilkan opsi resolusi/kualitas secara otomatis menyesuaikan ketersediaan dari API server.\n- Pengaturan Pemutar Video: Menambahkan kontrol gestur kustom pada pemutar video (dan menonaktifkan gestur bawaan yang sering mengganggu).\n\n🎨 Tampilan & Aset (UI/UX)\n- Ikon Aplikasi Baru: Mengganti ikon launcher aplikasi dengan desain baru berlatar belakang hitam, beserta penyesuaian margin agar lebih proporsional.\n- Refactor Aplikasi: Mengubah menu agar memudahkan.\n- Splash Screen Baru: Memperbarui logo pada splash screen (tanpa background) dan merevisi teks atribusi developer.\n- Pembaruan Teks: Merevisi deskripsi pada menu utama.\n- Navigasi Pemutar: Menghapus tombol back/nav-back lama pada player untuk kebersihan antarmuka.\n\n⚙️ Perbaikan Teknis\n- Refactoring kode pemutar video (mengubah variabel seekByMs menjadi deltaSeconds agar lebih mudah dibaca).\n- Memperbaiki dan membersihkan sejumlah peringatan deprecation.\n- Bump version aplikasi ke X3 (kode 8).\n\n🚀 Release Notes: vX3 (Version Code 9)\nNew Update : Fix Netshort, Dramawave dan Lainnya",
   "downloadUrl": "https://github.com/sonzaiekkusu/SonzaiEkkusu/releases/download/X3/SonzaixBox-X3-Fix-Netshort.apk"
 }
