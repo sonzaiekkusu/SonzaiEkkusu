@@ -1,7 +1,7 @@
 {
   "versionCode": 10,
   "versionName": "X4",
-  "isMaintenance": true,
+  "isMaintenance": false,
   "changelog": "🚀 Release Notes: vX4 (Version Code 10)\n\nUpdate diambil dari commit setelah 38424c09daaf1c1b430f9eb7dd2885ec90ba359c.\n\n✨ Fitur Baru\n- Integrasi endpoint Shinigami API (home, populer, detail manga, chapter detail).\n- Riwayat manga + favorit manga di pustaka, serta pemisahan item pustaka yang lebih rapi.\n- Tab Pustaka pada layar manga dan decoder parameter manga bersama.\n- Fitur download video YouTube dan musik di menu tools.\n\n🧠 Perbaikan Pencarian & Pustaka\n- Perbaikan pencarian manga (aksi Enter/Search keyboard).\n- Pemisahan riwayat dan favorit berdasarkan kategori menu (Movie Drama, Anime, Short Drama).\n- Perbaikan null safety pagination dan assignment list di ViewModel.\n\n🎨 UI/UX & Teknis\n- Penyempurnaan badge provider dan perapian UI aplikasi.\n- Pembaruan dependency dan refactor internal proyek.\n\nCatatan: rilis ini menyinkronkan metadata ke versi aplikasi X4.",
   "downloadUrl": "https://github.com/sonzaiekkusu/SonzaiEkkusu/releases/latest"
 }
